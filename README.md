@@ -12,8 +12,8 @@ alt="UR5 demo" width="480" height="320" border="0" /></a>
 * **TIPS**
   * The entries in a ____ could be repalce by **pictures**.
   <img src="img/imgs.png" alt="drawing" width="240px"/>
-  
-  * **CLICK** there is acutally not really click on the grids, but directly on the screen and convert the coordinate to the index of the ____matrix.
+
+  * **CLICK** there is acutally not really click on the grids, but directly on the screen and convert the coordinate to the index of the ____matrix.  
     <img src="img/click.png" alt="drawing" width="240px"/>
 
 
