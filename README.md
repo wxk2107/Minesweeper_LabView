@@ -10,7 +10,7 @@ alt="UR5 demo" width="480" height="320" border="0" /></a>
 <img src="img/structure.png" alt="drawing" width="480px"/>
 
 * **TIPS**
-  * The entries in a ____ could be repalce by **pictures**.
+  * The entries in a ____ could be repalce by **pictures**.  
     <img src="img/imgs.png" alt="drawing" width="240px"/>
 
   * **CLICK** there is acutally not really click on the grids, but directly on the screen and convert the coordinate to the index of the ____matrix.  
